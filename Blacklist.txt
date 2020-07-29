@@ -10,3 +10,4 @@ https://github.com/EnergizedProtection/block/raw/master/blu/formats/domains.txt
 	https://www.squidblacklist.org/downloads/dg-ads.acl
 	https://v.firebog.net/hosts/Shalla-mal.txt
 	https://dbl.oisd.nl/
+	https://block.energized.pro/porn/formats/domains.txt
