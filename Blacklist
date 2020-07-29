@@ -1,0 +1,12 @@
+https://github.com/EnergizedProtection/block/raw/master/blu/formats/domains.txt
+	https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
+	https://adaway.org/hosts.txt
+	https://v.firebog.net/hosts/AdguardDNS.txt
+	https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
+	https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
+	https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+	https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+	https://www.squidblacklist.org/downloads/dg-malicious.acl
+	https://www.squidblacklist.org/downloads/dg-ads.acl
+	https://v.firebog.net/hosts/Shalla-mal.txt
+	https://dbl.oisd.nl/
